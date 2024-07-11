@@ -1,0 +1,6 @@
+docx
+docxtpl
+google-cloud-aiplatform
+python-magic
+Pillow
+PyMuPDF

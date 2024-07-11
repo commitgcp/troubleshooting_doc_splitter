@@ -1,0 +1,10 @@
+output/*
+input/*
+docProps
+doc_splitter
+customXml
+_rels
+word
+llama-index.py
+example*
+main.py.old
